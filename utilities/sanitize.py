@@ -39,7 +39,3 @@ def sanitize_comma_data(line, line_array):
 #takes an array and outputs flat text
 def flatten(arr):
     return " ".join(arr)
-
-#TODO:
-# TESTS
-# README

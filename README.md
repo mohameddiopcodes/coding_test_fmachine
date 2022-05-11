@@ -21,7 +21,7 @@ Run `print_solution.py` at the root to generate an output
 
 - `utilities/sanitize`: cleans data and outputs correct format.
     #					
-        last_name first_name gender date_of_birth favorite color
+        last_name first_name gender date_of_birth favorite_color
 
 -  `utilities/generate_output`: sorts the data in 3 different ways to generate `solution`'s output:
     #
